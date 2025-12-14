@@ -1,0 +1,1 @@
+Please cite: Hu Y, Cheng Y, Xia Y, Wang X. Variational Bayesian Semi-supervised Keyword Extraction. IEEE Trans Pattern Anal Mach Intell. 2025 Nov 7;PP. doi: 10.1109/TPAMI.2025.3630577. Epub ahead of print. PMID: 41201949.
